@@ -1,0 +1,12 @@
+/Users/amorfati/Desktop/dotnet-deneme/Calisma26-SampleArrayList/obj/Debug/netcoreapp3.1/Calisma26-SampleArrayList.csprojAssemblyReference.cache
+/Users/amorfati/Desktop/dotnet-deneme/Calisma26-SampleArrayList/obj/Debug/netcoreapp3.1/Calisma26-SampleArrayList.AssemblyInfoInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/Calisma26-SampleArrayList/obj/Debug/netcoreapp3.1/Calisma26-SampleArrayList.AssemblyInfo.cs
+/Users/amorfati/Desktop/dotnet-deneme/Calisma26-SampleArrayList/obj/Debug/netcoreapp3.1/Calisma26-SampleArrayList.csproj.CoreCompileInputs.cache
+/Users/amorfati/Desktop/dotnet-deneme/Calisma26-SampleArrayList/bin/Debug/netcoreapp3.1/Calisma26-SampleArrayList.deps.json
+/Users/amorfati/Desktop/dotnet-deneme/Calisma26-SampleArrayList/bin/Debug/netcoreapp3.1/Calisma26-SampleArrayList.runtimeconfig.json
+/Users/amorfati/Desktop/dotnet-deneme/Calisma26-SampleArrayList/bin/Debug/netcoreapp3.1/Calisma26-SampleArrayList.runtimeconfig.dev.json
+/Users/amorfati/Desktop/dotnet-deneme/Calisma26-SampleArrayList/bin/Debug/netcoreapp3.1/Calisma26-SampleArrayList.dll
+/Users/amorfati/Desktop/dotnet-deneme/Calisma26-SampleArrayList/bin/Debug/netcoreapp3.1/Calisma26-SampleArrayList.pdb
+/Users/amorfati/Desktop/dotnet-deneme/Calisma26-SampleArrayList/obj/Debug/netcoreapp3.1/Calisma26-SampleArrayList.dll
+/Users/amorfati/Desktop/dotnet-deneme/Calisma26-SampleArrayList/obj/Debug/netcoreapp3.1/Calisma26-SampleArrayList.pdb
+/Users/amorfati/Desktop/dotnet-deneme/Calisma26-SampleArrayList/obj/Debug/netcoreapp3.1/Calisma26-SampleArrayList.genruntimeconfig.cache
